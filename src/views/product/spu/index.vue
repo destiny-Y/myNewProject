@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
   <div>
     <h1>我是spu管理</h1>
   </div>
@@ -7,9 +7,9 @@
 
 </script>
 <style scoped>
-</style> -->
+</style>
 
-<template>
+<!-- <template>
   <div class="my-ui">
     <img class="item" src="arrow.png" :style="calcStyle(angle)"/>
   </div>
@@ -33,8 +33,8 @@
     }
   }
 </script>
-<style lang="less" scoped>
+<style scoped>
   .my-ui{
     
   }
-</style>
+</style> -->
